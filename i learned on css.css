@@ -1,21 +1,24 @@
-.burn button:hover {
+.burn:hover {
     background-color: rgba(21, 134, 27, 0.6);
     color: black;
     cursor: pointer;
  }
 .burn {
-    cursor: pointer;
-    background-color: rgba(21, 134, 27, 0.6);
-    color: black;
+    background-color: #3B96F7;
     border: none;
-    justify-content: center;
-   display: inline-block;
-   text-align: center;
-   text-decoration: none;
-   font-size: 16px;
-   margin: 4px 2px;
-   padding: 20px;
- }
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
 .burr {
     text-align: center;
 }
+.burn {
+    border-radius: 60px;
+  }
