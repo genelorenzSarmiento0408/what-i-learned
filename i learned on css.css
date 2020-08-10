@@ -1,9 +1,13 @@
+.burr {
+    text-align: center;
+}
+
 .button:hover {
     background-color: rgba(21, 134, 27, 0.6);
     color: black;
     cursor: pointer;
  }
-.burn {
+.button {
     background-color: #3B96F7;
     border: none;
     color: white;
@@ -15,10 +19,9 @@
     margin: 4px 2px;
     cursor: pointer;
   }
-  
+  .button {
+    border-radius: 60px;
+  }
 .burr {
     text-align: center;
 }
-.burn {
-    border-radius: 60px;
-  }
