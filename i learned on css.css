@@ -18,9 +18,16 @@
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    width: 30px;
   }
   
 body {
     background-color: rgba(21, 165, 65, 0.4);
+}
+.button {
+  border-radius: 60px;
+}
+.font {
+  font-size: 28px;
+  text-align: center;
+  font-weight: bold;
 }

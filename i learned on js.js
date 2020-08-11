@@ -27,3 +27,7 @@ if (mommy=4) {
 else(mommy=4) => {
     question = false;
 }
+function lot(p1, p2) {
+    return p1* p2
+}
+document.getElementById("return").innerHTML = lot(2, 3)
